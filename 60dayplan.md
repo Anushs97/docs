@@ -176,6 +176,6 @@ The AI-native positioning is a real competitive moat - you were building AI docu
 
 Launch a newsletter until I have content people actually want to read weekly. Build community presence until I consistently create content that gets shared. Set up advanced attribution tracking until I understand which basic metrics matter most.
 
-The goal isn't to increase content marketing KPIs - it's to create content that makes prospects think "These people actually understand our documentation challenges" instead of "Great, another generic SaaS blog."
+The goal isn't just to increase content marketing KPIs - it's to create content that makes prospects think "These people actually understand our documentation challenges" instead of "Great, another generic SaaS blog."
 
 I might be wrong about some of these priorities based on internal data I don't have access to yet. But from external research, it looks like you have a great product that could be positioned more aggressively against the specific alternatives developers are actually considering.
