@@ -171,6 +171,7 @@ The AI-native positioning is a real competitive moat - you were building AI docu
 - Clear data on which content types and distribution channels actually convert
 - Sales team actively using materials I created in deals
 - Compiled business impact report - trials from content, sales assets used, customer insights gathered
+- Understanding PLG current state and devising strategy for following 2 quarters 
 
 ## **What I Won't Do (Initially)**
 
